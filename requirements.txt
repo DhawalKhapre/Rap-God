@@ -1,0 +1,12 @@
+gtts
+librosa
+pydub
+beautifulsoup4
+lxml
+nltk
+python-datamuse
+googletrans
+bottle
+wikipedia
+beaker
+pyphen
